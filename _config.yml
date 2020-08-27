@@ -64,6 +64,7 @@ author:
   #     icon: "fab fa-fw fa-instagram"
   #     # url: "https://instagram.com/"
 
+remote_theme: "mmistakes/minimal-mistakes@4.20.1"
 plugins:
   - jekyll-feed
 
