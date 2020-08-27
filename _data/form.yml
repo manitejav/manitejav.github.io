@@ -1,0 +1,11 @@
+- title: Email address
+  placeholder: Enter email
+  type: email
+
+- title: Name
+  placeholder: Enter your name
+  type: text
+
+- title: Text
+  placeholder: Text
+  type: text
