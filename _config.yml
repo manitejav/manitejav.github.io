@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Maniteja Vuppula
+title: Blog
 email: teja3536mani@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   
@@ -40,7 +40,7 @@ defaults:
 
 author:
   name             : "Maniteja Vuppula"
-  avatar           : "/assets/images/275.jpg"
+  avatar           : "/assets/images/275.png"
   bio              : "Software Engineer"
   location         : "Hyderabad"
   # email            :

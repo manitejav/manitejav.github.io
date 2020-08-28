@@ -3,7 +3,9 @@ main:
   url: /index.html
 - title: Resume
   url: /resume.html
+- title: Search
+  url: /search.html
 - title: About
   url: /about/
 - title: Contact
-  url: /contact/  
+  url: /contact/
