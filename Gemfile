@@ -39,8 +39,8 @@ gem "kramdown-parser-gfm"
 
 
 
-gem "jekyll-theme-hamilton", "~> 3.1"
+gem "jekyll-theme-hamilton", :github => "ngzhio/jekyll-theme-hamilton"
 
-gem "minimal-mistakes-jekyll", "~> 4.20"
+gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"
 
-gem "jekyll-sitemap", "~> 1.4"
+gem "jekyll-sitemap", :github => "jekyll/jekyll-sitemap"

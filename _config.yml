@@ -27,7 +27,7 @@ github_username:
 
 # Build settings
 markdown: kramdown
-# theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default" #"default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 defaults:
     scope:
@@ -64,7 +64,7 @@ author:
   #     icon: "fab fa-fw fa-instagram"
   #     # url: "https://instagram.com/"
 
-remote_theme: "mmistakes/minimal-mistakes@4.20.1"
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-paginate
